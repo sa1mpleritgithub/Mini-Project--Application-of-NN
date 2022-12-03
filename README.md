@@ -14,7 +14,7 @@ Train the model with training data
 Evaluate the model with the testing data
 Evaluate the model with the testing data
 ## Program:
-```python
+```
 import os
 import pandas as pd
 import numpy as np
